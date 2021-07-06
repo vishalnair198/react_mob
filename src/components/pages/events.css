@@ -1,0 +1,16 @@
+.events{
+    margin-top: -12%;
+    width: 100%;
+    height: 100vh;
+    background-image: url(../../assets/back3\ c.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nar{
+    position: relative;
+    height: 80px;
+    width: 100%;
+    top: 30px;
+    margin-top: 10%;
+    margin-left: 0%;
+  }
