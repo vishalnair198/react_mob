@@ -159,7 +159,7 @@ function About(){
                     
                     <div data-aos="fade-right"class="boxes">
                         <div data-aos="zoom-in" class="mhead">
-                            <p><span>OUR VISSION</span></p>
+                            <p><span>OUR VISION</span></p>
                         </div>
                         <div class="slide-text">
                             <h4><span>04</span></h4>
